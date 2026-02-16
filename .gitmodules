@@ -7,3 +7,6 @@
 [submodule "bucket-transfer"]
 	path = bucket-transfer
 	url = https://github.com/SakhareSohan/Script-BucketTransfer.git
+[submodule "developer-binaries"]
+	path = developer-binaries
+	url = https://github.com/SakhareSohan/Script-Developer-Binaries.git
