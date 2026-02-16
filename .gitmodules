@@ -1,0 +1,9 @@
+[submodule "embedding-markdown"]
+	path = embedding-markdown
+	url = https://github.com/SakhareSohan/Script-Embedding-Markdown.git
+[submodule "image-watermark"]
+	path = image-watermark
+	url = https://github.com/SakhareSohan/Script-ImageWatermark.git
+[submodule "bucket-transfer"]
+	path = bucket-transfer
+	url = https://github.com/SakhareSohan/Script-BucketTransfer.git
